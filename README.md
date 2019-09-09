@@ -6,7 +6,7 @@ ZhangWangSignatureByHtml
 亮点✨：采用了CSS3，用li设置方块悬浮，达到背景图运动的视觉效果。
 
 
-![image)(https://raw.githubusercontent.com/HaloYolanda/ZhangWangSignatureByHtml/master/image/img.png)
+![image](https://raw.githubusercontent.com/HaloYolanda/ZhangWangSignatureByHtml/master/image/img.png)
 
 ELGamal密码是除了RSA之外最有代表性的公开密钥密码之一，它的安全性建立在离散对数问题的困难性之上，是一种公认安全的公钥密码，可以用于数据加密和数字签名。
 
