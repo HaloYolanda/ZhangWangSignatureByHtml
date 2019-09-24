@@ -1,5 +1,4 @@
 # ZhangWangSignatureByHtml
-## ZhangWangSignatureByHtml
 
 - 张王签名是基于ELGamal密码的方案，该网页旨在协助提供实验的计算结果。
 该网页计算函数采用纯JS编写，难度在于优化算法，减少计算时间的损耗。
